@@ -102,14 +102,5 @@ All experiments use a fixed random seed (42) and deterministic data splits. Trai
 
 If you use this code or data in your research, please cite:
 
-```bibtex
-@article{STAR-Flow2026,
-  title   = {STAR-Flow: Flow Matching Meets Extreme Value Theory for Rapid
-             Extreme Scenario Generation in Integrated Energy Systems},
-  author  = {Yaohui Li and Hao Lu and Chuanxiao Zheng and Zunshi Han},
-  journal = {Applied Energy},
-  year    = {2026},
-  note    = {Under review}
-}
 ```
 
